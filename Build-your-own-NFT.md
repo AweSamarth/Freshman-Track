@@ -74,6 +74,7 @@ npx hardhat compile
 ```
 
 If there are no errors, you are good to go :)
+Why does it say compiled 11 contracts? explain that
 
 ## Configuring Deployment
 
